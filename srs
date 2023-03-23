@@ -1,0 +1,62 @@
+# Template SRS
+
+## Projeto Balti <project name>
+
+
+
+Version 1.0
+
+* 1 [Introdução](#1-introdução)
+* 2 [Requisitos Funcionais](#2-Requisitos-Funcionais)
+  * 2.1[Cadastro de Pacientes](#21-Cadastro-de-Pacientes)
+  * 2.2[Agendamento de Consultas](#22-Agendamento-de-Consultas)
+  * 2.3[Prontuário Eletrônico](#23-Prontuario-Eletronico)
+  * 2.4[Gestão de Estoque](#24-Gestão-de-Estoque)
+  * 2.5[Faturamento](#25-Faturamento)
+* 3 [Requisitos Não Funcionais](#3-Requisitos-Não-Funcionais)
+  * 3.1[Interface de Usuário](#31-Interface-de-Usuário)
+  * 3.2[Segurança](#32-Segurança)
+  * 3.3[Desempenho](#33-Desempenho)
+* 4 [Conclusão](#4-Conclusão)
+
+## Histórico de revisões
+| Data |  Versão |     Descrição       | Autor     |
+| ---- | ------- | ------------------- | --------- |
+|      |         |                     |           |
+|      |         |                     |           |
+|      |         |                     |           |
+
+## 1. Introdução
+> O objetivo deste documento é especificar os requisitos de software para um sistema de gestão de clínicas veterinárias desenvolvido para a empresa Balti. O sistema terá como objetivo auxiliar no gerenciamento dos processos da clínica, desde o agendamento de consultas até o registro de dados dos pacientes.
+## 2. Requisitos Funcionais
+>Esses requisitos descrevem as funções que o sistema de gestão de clínicas veterinárias deve ter para atender às necessidades da empresa e dos seus clientes.
+
+### 2.1 Cadastro de Pacientes
+O software deve permitir o cadastro de pacientes com as seguintes informações: nome, espécie, raça, idade, peso, histórico médico, alergias, medicamentos em uso, entre outras informações relevantes para a saúde do animal.
+
+### 2.2 Agendamento de Consultas
+O software deve permitir o agendamento de consultas, com a escolha do veterinário responsável, horário e data. Também deve ser possível reagendar ou cancelar uma consulta.
+
+### 2.3 Prontuário Eletrônico
+O software deve permitir o registro eletrônico do prontuário médico de cada paciente, com as informações da consulta, diagnóstico, prescrição, exames solicitados, entre outras informações relevantes.
+
+### 2.4 Gestão de Estoque
+O software deve permitir o controle de estoque de medicamentos e insumos, com a possibilidade de registrar a entrada e saída de produtos, bem como o controle de validade.
+
+### 2.5 Faturamento
+O software deve permitir a emissão de notas fiscais de serviço, com a possibilidade de gerar relatórios de faturamento por período.
+
+## 3. Requisitos Não Funcionais
+>Os requisitos não funcionais incluem segurança, confiabilidade, desempenho. O sistema deve ser seguro, confiável, escalável, de alto desempenho, fácil de usar e manter, e compatível com outros softwares utilizados pelas clínicas.
+
+### 3.1 Interface de Usuário
+O software deve ter uma interface de usuário intuitiva e amigável, com recursos que facilitem a navegação e utilização do sistema.
+
+### 3.2 Segurança
+O software deve garantir a segurança das informações, com a utilização de autenticação de usuários e acesso restrito às informações sensíveis.
+
+### 3.3 Desempenho
+O software deve ter um desempenho satisfatório, com tempos de resposta rápidos e sem interrupções.
+
+## 4. Conclusão
+>Este documento descreveu os requisitos de software básicos para um sistema de gestão de clínicas veterinárias para a empresa Balti. O sistema deverá atender às necessidades da empresa, permitindo um gerenciamento mais eficiente dos processos da clínica, incluindo cadastro de pacientes, agendamento de consultas, registro de atendimento e controle de estoque. Além disso, o sistema deve ser fácil de usar, seguro, disponível 24/7 e ter um desempenho satisfatório.
